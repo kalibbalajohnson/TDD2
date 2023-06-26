@@ -1,3 +1,8 @@
+
+// Kalibbala Johnson
+// Diana Ajambo
+
+
 function factorial(n) {
     let result = n;
   
